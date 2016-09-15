@@ -1,5 +1,5 @@
-html { 
-    background: url("http://apclinic.co.uk/wp-content/uploads/2013/09/Dark-Grey-Background.jpg") no-repeat center center fixed; 
+html {
+    background: url("http://apclinic.co.uk/wp-content/uploads/2013/09/Dark-Grey-Background.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -15,7 +15,6 @@ h1#app-name {
     font-size:84px;
 }
 
-
 h2#page-header {
     padding-top:20px;
     padding-bottom:20px;
@@ -30,11 +29,7 @@ body #page-container {
 select#combo {
   font-size: 18px;
     margin-bottom:100px;
-
 }
 
 label#worker {
-
-
-
 }
