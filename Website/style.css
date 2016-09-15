@@ -1,0 +1,40 @@
+html { 
+    background: url("http://apclinic.co.uk/wp-content/uploads/2013/09/Dark-Grey-Background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    color: white;
+    background-color: transparent;
+}
+
+h1#app-name {
+    font-size:84px;
+}
+
+
+h2#page-header {
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+body #page-container {
+    margin-top: 150px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+select#combo {
+  font-size: 18px;
+    margin-bottom:100px;
+
+}
+
+label#worker {
+
+
+
+}
