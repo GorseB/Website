@@ -103,7 +103,6 @@
     <Content Include="bootstrap.min.js" />
     <Content Include="index.html" />
     <Content Include="jquery.min.js" />
-    <Content Include="js.js" />
     <Content Include="main.js" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
