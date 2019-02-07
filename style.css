@@ -1,5 +1,5 @@
 html {
-    background: url("//apclinic.co.uk/wp-content/uploads/2013/09/Dark-Grey-Background.jpg") no-repeat center center fixed;
+    background: url("https://apclinic.co.uk/wp-content/uploads/2013/09/Dark-Grey-Background.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    color: white;
+    color: black;
     background-color: transparent;
 }
 
