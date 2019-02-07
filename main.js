@@ -24,6 +24,6 @@ function myFunction () {
       }
     }
   }
-  xhttp.open('GET', 'http://data.fixer.io/api/latest?access_key=b58326c82022e4356cd37dd6d3ffde87&symbols=' + x, true)
+  xhttp.open('GET', 'https://frankfurter.app/latest?to=' + x, true)
   xhttp.send()
 }
