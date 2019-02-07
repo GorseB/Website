@@ -1,8 +1,9 @@
 # Currency-Conversion-Website
-Currency Conversion Website made with JQuery, bootstrap and a public API (Hosted on Azure)
+Made with JQuery, bootstrap and a public API called fixer.io 
+This website was originally hosted on Azure but was moved becuase Github pages is free :D
 
 How to use?
 
-go to : https://jok0436.github.io/Currency-Conversion-Website/
+Go to : https://jok0436.github.io/Currency-Conversion-Website/
 
 Enjoy!
