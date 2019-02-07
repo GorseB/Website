@@ -29,7 +29,5 @@ body #page-container {
 select#combo {
   font-size: 18px;
     margin-bottom:100px;
-}
-
-label#worker {
+    color: black
 }
