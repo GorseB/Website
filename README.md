@@ -3,8 +3,6 @@ Currency Conversion Website made with JQuery, bootstrap and a public API (Hosted
 
 How to use?
 
-Clone the repository
-
-Open Index.html in chrome 
+go to : https://jok0436.github.io/Currency-Conversion-Website/
 
 Enjoy!
