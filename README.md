@@ -1,5 +1,5 @@
 # Currency-Conversion-Website
-Made with JQuery, bootstrap and a public API called fixer.io 
+Made with JQuery, Bootstrap and a public API called https://frankfurter.app/ 
 This website was originally hosted on Azure but was moved becuase Github pages is free :D
 
 How to use?
