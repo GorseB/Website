@@ -3,7 +3,7 @@ Currency Conversion Website made with JQuery, bootstrap and a public API (Hosted
 
 How to use?
 
-Clone the repo
+Clone the repository
 
 Open Index.html in chrome 
 
